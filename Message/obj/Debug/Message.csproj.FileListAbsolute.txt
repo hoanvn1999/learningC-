@@ -1,0 +1,11 @@
+D:\Learning\learning C#\WindowsFormsApp1\Message\obj\Debug\Message.csprojAssemblyReference.cache
+D:\Learning\learning C#\WindowsFormsApp1\Message\obj\Debug\Message.Fo_Message.resources
+D:\Learning\learning C#\WindowsFormsApp1\Message\obj\Debug\Message.Properties.Resources.resources
+D:\Learning\learning C#\WindowsFormsApp1\Message\obj\Debug\Message.csproj.GenerateResource.cache
+D:\Learning\learning C#\WindowsFormsApp1\Message\obj\Debug\Message.csproj.CoreCompileInputs.cache
+D:\Learning\learning C#\WindowsFormsApp1\Message\bin\Debug\Message.exe.config
+D:\Learning\learning C#\WindowsFormsApp1\Message\bin\Debug\Message.exe
+D:\Learning\learning C#\WindowsFormsApp1\Message\bin\Debug\Message.pdb
+D:\Learning\learning C#\WindowsFormsApp1\Message\obj\Debug\Message.exe
+D:\Learning\learning C#\WindowsFormsApp1\Message\obj\Debug\Message.pdb
+D:\Learning\learning C#\WindowsFormsApp1\Message\obj\Debug\Message.subForm.resources
