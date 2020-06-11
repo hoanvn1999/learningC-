@@ -1,0 +1,13 @@
+D:\learning C#\ThamTri_ThamChieu\bin\Debug\netcoreapp3.1\ThamTri_ThamChieu.exe
+D:\learning C#\ThamTri_ThamChieu\bin\Debug\netcoreapp3.1\ThamTri_ThamChieu.deps.json
+D:\learning C#\ThamTri_ThamChieu\bin\Debug\netcoreapp3.1\ThamTri_ThamChieu.runtimeconfig.json
+D:\learning C#\ThamTri_ThamChieu\bin\Debug\netcoreapp3.1\ThamTri_ThamChieu.runtimeconfig.dev.json
+D:\learning C#\ThamTri_ThamChieu\bin\Debug\netcoreapp3.1\ThamTri_ThamChieu.dll
+D:\learning C#\ThamTri_ThamChieu\bin\Debug\netcoreapp3.1\ThamTri_ThamChieu.pdb
+D:\learning C#\ThamTri_ThamChieu\obj\Debug\netcoreapp3.1\ThamTri_ThamChieu.csprojAssemblyReference.cache
+D:\learning C#\ThamTri_ThamChieu\obj\Debug\netcoreapp3.1\ThamTri_ThamChieu.csproj.CoreCompileInputs.cache
+D:\learning C#\ThamTri_ThamChieu\obj\Debug\netcoreapp3.1\ThamTri_ThamChieu.AssemblyInfoInputs.cache
+D:\learning C#\ThamTri_ThamChieu\obj\Debug\netcoreapp3.1\ThamTri_ThamChieu.AssemblyInfo.cs
+D:\learning C#\ThamTri_ThamChieu\obj\Debug\netcoreapp3.1\ThamTri_ThamChieu.dll
+D:\learning C#\ThamTri_ThamChieu\obj\Debug\netcoreapp3.1\ThamTri_ThamChieu.pdb
+D:\learning C#\ThamTri_ThamChieu\obj\Debug\netcoreapp3.1\ThamTri_ThamChieu.genruntimeconfig.cache

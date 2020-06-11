@@ -1,0 +1,12 @@
+D:\Learning\learning C#\WindowsFormsApp1\QuanLySinhVien\bin\Debug\App_Data\SV.mdf
+D:\Learning\learning C#\WindowsFormsApp1\QuanLySinhVien\bin\Debug\App_Data\SV_log.ldf
+D:\Learning\learning C#\WindowsFormsApp1\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+D:\Learning\learning C#\WindowsFormsApp1\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+D:\Learning\learning C#\WindowsFormsApp1\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+D:\Learning\learning C#\WindowsFormsApp1\QuanLySinhVien\obj\Debug\QuanLySinhVien.Form1.resources
+D:\Learning\learning C#\WindowsFormsApp1\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+D:\Learning\learning C#\WindowsFormsApp1\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.cache
+D:\Learning\learning C#\WindowsFormsApp1\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CoreCompileInputs.cache
+D:\Learning\learning C#\WindowsFormsApp1\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+D:\Learning\learning C#\WindowsFormsApp1\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+D:\Learning\learning C#\WindowsFormsApp1\QuanLySinhVien\obj\Debug\QuanLySinhVien.csprojAssemblyReference.cache

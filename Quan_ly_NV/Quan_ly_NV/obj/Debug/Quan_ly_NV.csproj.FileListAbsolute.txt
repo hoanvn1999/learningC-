@@ -1,0 +1,15 @@
+D:\Winform\BichNi\SQL\Quan_ly_NV\Quan_ly_NV\bin\Debug\Quan_ly_NV.mdf
+D:\Winform\BichNi\SQL\Quan_ly_NV\Quan_ly_NV\bin\Debug\Quan_ly_NV_log.ldf
+D:\Winform\BichNi\SQL\Quan_ly_NV\Quan_ly_NV\bin\Debug\Quan_ly_NV.exe.config
+D:\Winform\BichNi\SQL\Quan_ly_NV\Quan_ly_NV\bin\Debug\Quan_ly_NV.exe
+D:\Winform\BichNi\SQL\Quan_ly_NV\Quan_ly_NV\bin\Debug\Quan_ly_NV.pdb
+D:\Winform\BichNi\SQL\Quan_ly_NV\Quan_ly_NV\obj\Debug\Quan_ly_NV.csprojAssemblyReference.cache
+D:\Winform\BichNi\SQL\Quan_ly_NV\Quan_ly_NV\obj\Debug\Quan_ly_NV.Login.resources
+D:\Winform\BichNi\SQL\Quan_ly_NV\Quan_ly_NV\obj\Debug\Quan_ly_NV.NhanVien.resources
+D:\Winform\BichNi\SQL\Quan_ly_NV\Quan_ly_NV\obj\Debug\Quan_ly_NV.Phong_ban.resources
+D:\Winform\BichNi\SQL\Quan_ly_NV\Quan_ly_NV\obj\Debug\Quan_ly_NV.Quan_ly_NV.resources
+D:\Winform\BichNi\SQL\Quan_ly_NV\Quan_ly_NV\obj\Debug\Quan_ly_NV.Properties.Resources.resources
+D:\Winform\BichNi\SQL\Quan_ly_NV\Quan_ly_NV\obj\Debug\Quan_ly_NV.csproj.GenerateResource.cache
+D:\Winform\BichNi\SQL\Quan_ly_NV\Quan_ly_NV\obj\Debug\Quan_ly_NV.csproj.CoreCompileInputs.cache
+D:\Winform\BichNi\SQL\Quan_ly_NV\Quan_ly_NV\obj\Debug\Quan_ly_NV.exe
+D:\Winform\BichNi\SQL\Quan_ly_NV\Quan_ly_NV\obj\Debug\Quan_ly_NV.pdb

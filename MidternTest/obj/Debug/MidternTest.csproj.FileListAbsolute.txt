@@ -1,0 +1,14 @@
+D:\Learning\learning C#\MidternTest\bin\Debug\dbQLSV.mdf
+D:\Learning\learning C#\MidternTest\bin\Debug\dbQLSV_log.ldf
+D:\Learning\learning C#\MidternTest\bin\Debug\MidternTest.exe.config
+D:\Learning\learning C#\MidternTest\bin\Debug\MidternTest.exe
+D:\Learning\learning C#\MidternTest\bin\Debug\MidternTest.pdb
+D:\Learning\learning C#\MidternTest\obj\Debug\MidternTest.csprojAssemblyReference.cache
+D:\Learning\learning C#\MidternTest\obj\Debug\MidternTest.Form_Login.resources
+D:\Learning\learning C#\MidternTest\obj\Debug\MidternTest.MainForm.resources
+D:\Learning\learning C#\MidternTest\obj\Debug\MidternTest.Properties.Resources.resources
+D:\Learning\learning C#\MidternTest\obj\Debug\MidternTest.QuanLySinhVienForm.resources
+D:\Learning\learning C#\MidternTest\obj\Debug\MidternTest.csproj.GenerateResource.cache
+D:\Learning\learning C#\MidternTest\obj\Debug\MidternTest.csproj.CoreCompileInputs.cache
+D:\Learning\learning C#\MidternTest\obj\Debug\MidternTest.exe
+D:\Learning\learning C#\MidternTest\obj\Debug\MidternTest.pdb

@@ -1,0 +1,13 @@
+D:\Learning\learning C#\QL_SinhVien\obj\Debug\netcoreapp3.1\QL_SinhVien.csprojAssemblyReference.cache
+D:\Learning\learning C#\QL_SinhVien\obj\Debug\netcoreapp3.1\QL_SinhVien.csproj.CoreCompileInputs.cache
+D:\Learning\learning C#\QL_SinhVien\obj\Debug\netcoreapp3.1\QL_SinhVien.AssemblyInfoInputs.cache
+D:\Learning\learning C#\QL_SinhVien\obj\Debug\netcoreapp3.1\QL_SinhVien.AssemblyInfo.cs
+D:\Learning\learning C#\QL_SinhVien\bin\Debug\netcoreapp3.1\QL_SinhVien.exe
+D:\Learning\learning C#\QL_SinhVien\bin\Debug\netcoreapp3.1\QL_SinhVien.deps.json
+D:\Learning\learning C#\QL_SinhVien\bin\Debug\netcoreapp3.1\QL_SinhVien.runtimeconfig.json
+D:\Learning\learning C#\QL_SinhVien\bin\Debug\netcoreapp3.1\QL_SinhVien.runtimeconfig.dev.json
+D:\Learning\learning C#\QL_SinhVien\bin\Debug\netcoreapp3.1\QL_SinhVien.dll
+D:\Learning\learning C#\QL_SinhVien\bin\Debug\netcoreapp3.1\QL_SinhVien.pdb
+D:\Learning\learning C#\QL_SinhVien\obj\Debug\netcoreapp3.1\QL_SinhVien.dll
+D:\Learning\learning C#\QL_SinhVien\obj\Debug\netcoreapp3.1\QL_SinhVien.pdb
+D:\Learning\learning C#\QL_SinhVien\obj\Debug\netcoreapp3.1\QL_SinhVien.genruntimeconfig.cache

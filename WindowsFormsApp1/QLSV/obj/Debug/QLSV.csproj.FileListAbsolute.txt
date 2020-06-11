@@ -1,0 +1,12 @@
+D:\Learning\learning C#\WindowsFormsApp1\QLSV\bin\Debug\App_Data\SV.mdf
+D:\Learning\learning C#\WindowsFormsApp1\QLSV\bin\Debug\App_Data\SV_log.ldf
+D:\Learning\learning C#\WindowsFormsApp1\QLSV\bin\Debug\QLSV.exe.config
+D:\Learning\learning C#\WindowsFormsApp1\QLSV\bin\Debug\QLSV.exe
+D:\Learning\learning C#\WindowsFormsApp1\QLSV\bin\Debug\QLSV.pdb
+D:\Learning\learning C#\WindowsFormsApp1\QLSV\obj\Debug\QLSV.csprojAssemblyReference.cache
+D:\Learning\learning C#\WindowsFormsApp1\QLSV\obj\Debug\QLSV.Form1.resources
+D:\Learning\learning C#\WindowsFormsApp1\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+D:\Learning\learning C#\WindowsFormsApp1\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+D:\Learning\learning C#\WindowsFormsApp1\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+D:\Learning\learning C#\WindowsFormsApp1\QLSV\obj\Debug\QLSV.exe
+D:\Learning\learning C#\WindowsFormsApp1\QLSV\obj\Debug\QLSV.pdb
